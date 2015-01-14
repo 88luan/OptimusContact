@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="name">#FFFF00</color>
+    <color name="phoneMobile">#FFFFFF</color>
+    <color name="main_background">#404040</color>
+    <color name="bg_smsitem">#E5E5E5</color>
+     <color name="bg_listsms">#E5E5E5</color>
+     <color name="bg_linear">#8800FF</color>
+     <color name="bg">#CCCCFF</color>
+     <color name="bg_green">#C5FF8C</color>
+     <color name="selected">#80FF6600</color>
+     <color name="text_white">#FFFFFF</color>
+</resources>

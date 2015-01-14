@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="10dp" >
+
+    <Button
+        android:id="@+id/btAddFavorite"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="Add Favorite" />
+
+    <Button
+        android:id="@+id/btEdit"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="Edit" />
+
+    <Button
+        android:id="@+id/btDetail"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="Detail" />
+
+    <Button
+        android:id="@+id/btDelete"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="Delete" />
+
+</LinearLayout>
